@@ -46,7 +46,7 @@ h4{
 
 /* Spread */
 #spread{
-    background: url(/images/spread/austin-distel-nGc5RT2HmF0-unsplash.jpg) center center/cover no-repeat;
+    background: url(images/spread/austin-distel-nGc5RT2HmF0-unsplash.jpg) center center/cover no-repeat;
     height: 100vh;
     color: #fff;
 }
@@ -137,7 +137,7 @@ h4{
 
 /* Features */
 #features, #analytics, #testimonials{
-    background: url(/images/blurred\ background.jpg) center center/cover no-repeat;
+    background: url(images/blurred\ background.jpg) center center/cover no-repeat;
     height: 50vh;
     justify-content: center;
 }
